@@ -1,0 +1,5 @@
+git add raw_data.csv screenshot.png
+git commit -m "Subiendo DataFrame y screenshot"
+git branch -M main
+git remote add origin https://github.com/Johanmed10/Ejercicios_Metabolomica.git
+git push -u origin main
